@@ -1,0 +1,5 @@
+Credentials cache: API:8A473C38-879B-4CB4-8A5E-39FA8F012752
+        Principal: asaffroy@42LYON.FR
+
+  Issued                Expires               Principal
+Jul  6 16:53:02 2021  Jul  7 16:53:02 2021  krbtgt/42LYON.FR@42LYON.FR
