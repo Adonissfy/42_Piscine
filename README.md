@@ -15,3 +15,5 @@ Salut mon pote !
 * C07 : 60% {temporaire , le split est bon mais pas le convert base}
 * C08 : 100%
 * C09 : 100%
+
+* Main : https://www.notion.so/Main-C-944afbadae554ae5a7875256dd7db277
