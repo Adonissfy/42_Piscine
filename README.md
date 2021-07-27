@@ -12,7 +12,7 @@ Salut mon pote !
 * C04 : 100%
 * C05 : 80% {ex08 pas fait}
 * C06 : 100%
-* C07 : 60% {temporaire , le split est bon mais pas le convert base}
+* C07 : 100%
 * C08 : 100%
 * C09 : 100%
 
