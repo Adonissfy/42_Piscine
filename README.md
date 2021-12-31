@@ -1,20 +1,17 @@
 # 42
-Ma piscine
 
-Salut mon pote !
+Hello there !
 
 * Shell 00 : 100%
-* Shell 01 : 70% {ex07 et ex08 pas faits}
+* Shell 01 : 70% {ex07 and ex08 not done}
 * C00 : 85% {ex08 pas fait}
 * C01 : 100%
-* C02 : 85% {ex12 pas fait}
+* C02 : 85% {ex12 not done}
 * C03 : 100%
 * C04 : 100%
-* C05 : 80% {ex08 pas fait}
+* C05 : 80% {ex08 not done}
 * C06 : 100%
 * C07 : 100%
 * C08 : 100%
 * C09 : 100%
 * C11 : 100%
-
-* Main : https://www.notion.so/Main-C-944afbadae554ae5a7875256dd7db277
