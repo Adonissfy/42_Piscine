@@ -4,7 +4,7 @@ Hello there !
 
 * Shell 00 : 100%
 * Shell 01 : 70% {ex07 and ex08 not done}
-* C00 : 85% {ex08 pas fait}
+* C00 : 85% {ex08 not done}
 * C01 : 100%
 * C02 : 85% {ex12 not done}
 * C03 : 100%
